@@ -1,1 +1,1 @@
-Thisnotebook loads a dataset about Netflix titles, prints the first few rows, and then creates two visualizations: a bar chart showing the distribution of movies and TV shows and a histogram showing the distribution of release years.
+This notebook loads a dataset about Netflix titles, prints the first few rows, and then creates two visualizations: a bar chart showing the distribution of movies and TV shows and a histogram showing the distribution of release years.
